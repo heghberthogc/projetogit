@@ -1,4 +1,4 @@
-
+// teste de versão
 
 // #Creat tables
 const Postagem =sequelize.define('postagens',{
